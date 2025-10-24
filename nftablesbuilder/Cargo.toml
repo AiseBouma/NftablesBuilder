@@ -1,0 +1,10 @@
+[package]
+name = "nftablesbuilder"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+signal-hook = "0.3.4"
+openssl = "0.10.73"
+hex = "0.4.3"
+settings = { path = "../settings" }
