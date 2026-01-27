@@ -1,2 +1,2 @@
 # NftablesBuilder
-Webinterface to manage nftables. Check https://nftablesbuilder.eu for more information.
+Webinterface to manage nftables. Check https://www.nftablesbuilder.eu for more information.
